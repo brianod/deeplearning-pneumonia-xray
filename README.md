@@ -387,3 +387,5 @@ interp.plot_top_losses(10, nrows=2)
 
 ![png](Pneumonia_files/Pneumonia_27_0.png)
 
+
+P.S. This readme was created using nbconvert --to markdown [file_name].ipynb
