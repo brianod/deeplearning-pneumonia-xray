@@ -1,3 +1,5 @@
+# Achieving 88% accuracy in diagnosing pneumonia using the fastai-v2 library, a pre-trained resnet50 model. and transfer learning.
+
 **Preface**
 
 I am using the chest x-ray dataset here: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
